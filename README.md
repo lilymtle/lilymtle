@@ -2,7 +2,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHRnMW02OWN6d2I0dXM0M2k1M2xpenJuejcxYXFsd3FrazNkcTh6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f6hnhHkks8bk4jwjh3/giphy.gif" alt="orange cat typing" width="250">
 </p>
 <h1 align="center">Hello world, I'm Lily. 👋</h1>
-<h3 align="center">An aspiring software engineer with over 5 years healthcare experience.</h3>
+<h3 align="center">An aspiring software engineer with over 5 years of healthcare experience.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lilymtle&label=Profile%20views&color=0e75b6&style=flat" alt="lilymtle" /> </p>
 
   - 📓 I'm studying software engineering at **BrainStation.**
