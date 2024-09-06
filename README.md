@@ -12,7 +12,7 @@
   - 🌱 I’m currently learning **JavaScript and Python.**
   - 📫 How to reach me: <a href="https://www.linkedin.com/in/lilymtle"><img alt="Static Badge" src="https://img.shields.io/badge/linkedin-blue?logo=linkedin&logoColor=white"></a>
   - 😄 Pronouns: she/her
-  - ⚡ Fun fact: My goal is to read 100 books in 2024. I am on book **#74** as of *August 14, 2024*. 📚
+  - ⚡ Fun fact: My goal is to read 100 books in 2024. I am on book **#81** as of *September 6, 2024*. 📚
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
