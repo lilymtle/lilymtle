@@ -10,6 +10,7 @@
   - 💬 Ask me about my journey transitioning from healthcare to software engineering.
   - 👀 I’m interested in technological innovations, especially within healthcare.
   - 🌱 I’m currently learning **JavaScript and Python.**
+  - 💡 I want to learn **TypeScript** next.
   - 📫 How to reach me: <a href="https://www.linkedin.com/in/lilymtle"><img alt="Static Badge" src="https://img.shields.io/badge/linkedin-blue?logo=linkedin&logoColor=white"></a>
   - 😄 Pronouns: she/her
   - ⚡ Fun fact: My goal is to read 100 books in 2024. I am on book **#81** as of *September 6, 2024*. 📚
@@ -19,6 +20,11 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,react,nodejs,express,mysql,firebase,git,github,materialui,postman" />
   </a>
+</p>
+
+<h4 align="center">Others:</h4>
+<p align="center">
+  Agile methodologies (specifically Scrum), Jira, Articulate 360
 </p>
 
 <!---
