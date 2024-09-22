@@ -10,10 +10,10 @@
   - 💬 Ask me about my journey transitioning from healthcare to software engineering.
   - 👀 I’m interested in technological innovations, especially within healthcare.
   - 🌱 I’m currently learning **JavaScript and Python.**
-  - 💡 I want to learn **TypeScript** next.
+  - 💡 I want to learn **TypeScript, Next.js, and Nest.js** next.
   - 📫 How to reach me: <a href="https://www.linkedin.com/in/lilymtle"><img alt="Static Badge" src="https://img.shields.io/badge/linkedin-blue?logo=linkedin&logoColor=white"></a>
   - 😄 Pronouns: she/her
-  - ⚡ Fun fact: My goal is to read 100 books in 2024. I am on book **#81** as of *September 6, 2024*. 📚
+  - ⚡ Fun fact: My goal is to read 100 books in 2024. I am on book **#83** as of *September 22, 2024*. 📚
   - 🖊️ My portfolio is under construction. 
 
 <h3 align="center">Languages and Tools:</h3>
