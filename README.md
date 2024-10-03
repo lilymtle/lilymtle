@@ -3,7 +3,7 @@
 </p>
 
 
-<center><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=FFB942&center=true&width=435&lines=What's+new%3F" alt="Typing SVG" /></center>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=FFB942&center=true&width=435&lines=What's+new%3F" alt="Typing SVG" /></p>
 
 <table>
   <tr>
@@ -36,9 +36,7 @@
   </tr>
 </table>
 
-<hr>
-
-<img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=FFB942&center=true&width=435&lines=Who+am+I%3F" alt="Typing SVG" />
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=FFB942&center=true&width=435&lines=Who+am+I%3F" alt="Typing SVG" /></p>
 
 - 🎓 BScN, MN, and diploma in software engineering.
 - 💬 Ask me about my journey transitioning from healthcare to software engineering.
