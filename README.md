@@ -1,31 +1,61 @@
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHRnMW02OWN6d2I0dXM0M2k1M2xpenJuejcxYXFsd3FrazNkcTh6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f6hnhHkks8bk4jwjh3/giphy.gif" alt="orange cat typing" width="250">
+  <img src="./assets/images/readme-header.gif" alt="Header saying saying Hi I'm Lily">
 </p>
-<h1 align="center">Hello world, I'm Lily. 👋</h1>
-<h3 align="center">An aspiring software engineer with over 5 years of healthcare experience.</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=lilymtle&label=Profile%20views&color=0e75b6&style=flat" alt="lilymtle" /> </p>
 
-  - 📓 I'm studying software engineering at **BrainStation.**
-  - 🎓 I have a BScN and an MN. I specialize in mental health. 🩺
-  - 💬 Ask me about my journey transitioning from healthcare to software engineering.
-  - 👀 I’m interested in technological innovations, especially within healthcare.
-  - 🌱 I’m currently learning **TypeScript, Next.js and DSA**, as well as improving my **JavaScript**.
-  - 💡 I want to learn **Python and Nest.js** next.
-  - 📫 How to reach me: <a href="https://www.linkedin.com/in/lilymtle"><img alt="Static Badge" src="https://img.shields.io/badge/linkedin-blue?logo=linkedin&logoColor=white"></a>
-  - 😄 Pronouns: she/her
-  - ⚡ Fun fact: My goal is to read 100 books in 2024. I am on book **#83** as of *September 22, 2024*. 📚
-  - 🖊️ **Upcoming Projects**: Discord bot and another passion project with the goal to spread positivity.
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=FFB942&center=true&width=435&lines=What's+new%3F" alt="Typing SVG" /></h2>
 
-<h3 align="center">Languages and Tools:</h3>
+<table>
+  <tr>
+    <td><img src="assets/images/readme-body-img.svg" width="250">
+</td>
+    <td style="vertical-align: top;">
+      <div style="background-color: transparent; padding: 1rem; border-radius: 5px; max-width: 200px; max-height: 200px; font-color: black; overflow-y: auto;">
+        <p align="center">
+          <b>MoodCompass</b> is now live! Take a look <a href="https://mood-compass.vercel.app/">here</a>. 😊
+        </p>
+        <strong>💻 Working on:</strong>
+        <ul name="list">
+          <li name="list__item">MoodCompass</li>
+          <li name="list__item">Koru</li>
+          <li name="list__item">Discord Bot</li>
+        </ul>
+        <strong>🌱 Currently learning:</strong>
+        <ul name="list">
+          <li name="list__item">TypeScript</li>
+          <li name="list__item">Next.js</li>
+          <li name="list__item">DSA</li>
+        </ul>
+        <strong>💡 To learn:</strong>
+          <ul name="list">
+            <li name="list__item">Python</li>
+            <li name="list__item">Nest.js</li>
+          </ul>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=FFB942&center=true&width=435&lines=Who+am+I%3F" alt="Typing SVG" /></h2>
+
+- 🎓 BScN, MN, and diploma in software engineering.
+- 💬 Ask me about my journey transitioning from healthcare to software engineering.
+- 👀 I’m interested in AI and technological innovations, especially within healthcare and education.
+- ⚡ Fun fact: My goal is to read 100 books in 2024. I am on book **#83** as of *September 22, 2024*. 📚
+
+<h2 align="center">Languages and Tools:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,react,nodejs,express,mysql,firebase,git,github,materialui,postman" />
   </a>
 </p>
 
-<h4 align="center">Others:</h4>
+<h3 align="center">Others:</h3>
 <p align="center">
-  Agile methodologies (specifically Scrum), Jira, Articulate 360
+  Agile methodologies (Scrum), Jira, Articulate 360
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lilymtle&label=Profile%20views&color=0e75b6&style=flat" alt="lilymtle" />
 </p>
 
 <!---
