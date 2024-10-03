@@ -5,7 +5,7 @@
 
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=FFB942&center=true&width=435&lines=What's+new%3F" alt="Typing SVG" /></p>
 
-<table>
+<table align="center">
   <tr>
     <td><img src="assets/images/readme-body-img.svg" width="300" alt="illustration of a woman">
 </td>
