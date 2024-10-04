@@ -24,6 +24,7 @@
         <ul name="list">
           <li name="list__item">TypeScript</li>
           <li name="list__item">Next.js</li>
+          <li name="list__item">Tailwind CSS</li>
           <li name="list__item">DSA</li>
         </ul>
         <strong>💡 To learn:</strong>
