@@ -18,7 +18,7 @@
         <ul name="list">
           <li name="list__item">MoodCompass</li>
           <li name="list__item">Koru</li>
-          <li name="list__item">Discord Bot</li>
+          <li name="list__item">CheerBot</li>
         </ul>
         <strong>🌱 Currently learning:</strong>
         <ul name="list">
