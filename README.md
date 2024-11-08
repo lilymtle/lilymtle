@@ -31,6 +31,7 @@
           <ul name="list">
             <li name="list__item">Python</li>
             <li name="list__item">Nest.js</li>
+            <li name="list__item">MongoDB</li>
           </ul>
       </div>
     </td>
@@ -53,7 +54,7 @@
 
 <h3 align="center">Others:</h3>
 <p align="center">
-  Agile methodologies (Scrum), Jira, Articulate 360
+  Agile (Scrum), Jira, Articulate 360
 </p>
 
 <p align="center">
