@@ -40,9 +40,10 @@
 
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=FFB942&center=true&width=435&lines=Who+am+I%3F" alt="Typing SVG" /></p>
 
-- 🎓 BScN, MN, and diploma in software engineering.
-- 💬 Ask me about my journey transitioning from healthcare to software engineering.
-- 👀 I’m interested in AI and technological innovations, especially within healthcare and education.
+- 💻 Web Developer at The Verse
+- 🎓 BScN, MN, and diploma in software engineering
+- 💬 Ask me about my journey transitioning from healthcare to software engineering
+- 👀 I’m interested in AI and technological innovations, especially within healthcare and education
 - ⚡ Fun fact: My goal is to read 100 books in 2024. I am on book **#91** as of *December 1st, 2024*. 📚
 
 <h3 align="center">Languages and Tools:</h3>
