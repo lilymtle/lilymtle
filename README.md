@@ -16,7 +16,6 @@
         </p>
         <strong>💻 Working on:</strong>
         <ul name="list">
-          <li name="list__item">MoodCompass</li>
           <li name="list__item">Koru</li>
           <li name="list__item">CheerBot</li>
         </ul>
@@ -25,11 +24,11 @@
           <li name="list__item">TypeScript</li>
           <li name="list__item">Next.js</li>
           <li name="list__item">Tailwind CSS</li>
+          <li name="list__item">Python</li>
           <li name="list__item">DSA</li>
         </ul>
         <strong>💡 To learn:</strong>
           <ul name="list">
-            <li name="list__item">Python</li>
             <li name="list__item">Nest.js</li>
             <li name="list__item">MongoDB</li>
           </ul>
