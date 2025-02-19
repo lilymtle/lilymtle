@@ -38,11 +38,11 @@
 
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=FFB942&center=true&width=435&lines=Who+am+I%3F" alt="Typing SVG" /></p>
 
-- 💻 Web Developer at The Verse
+- 💻 Health Analyst (Developer) at Ontario's Ministry of Health
 - 🎓 BScN, MN, and diploma in software engineering
 - 💬 Ask me about my journey transitioning from healthcare to software engineering
 - 👀 I’m interested in AI and technological innovations, especially within healthcare and education
-- ⚡ Fun fact: I read 100 books last year (2024). My goal for 2025 is 50 books. I am on book **5** as of *February 9th*. 😌
+- ⚡ Fun fact: I read 100 books last year (2024). My goal for 2025 is 50 books. I am on book **6** as of *February 9th*. 😌
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
