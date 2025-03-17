@@ -16,13 +16,12 @@
         </p>
         <strong>💻 Working on:</strong>
         <ul name="list">
+          <li name="list__item">Portfolio - Blog</li>
           <li name="list__item">Koru</li>
         </ul>
         <strong>🌱 Currently learning:</strong>
         <ul name="list">
-          <li name="list__item">TypeScript</li>
-          <li name="list__item">Next.js</li>
-          <li name="list__item">Tailwind CSS</li>
+          <li name="list__item">Headless CMS (Sanity? Strapi?)</li>
           <li name="list__item">Python</li>
           <li name="list__item">DSA</li>
         </ul>
@@ -38,7 +37,7 @@
 
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=FFB942&center=true&width=435&lines=Who+am+I%3F" alt="Typing SVG" /></p>
 
-- 💻 Health Analyst (Developer) at Ontario's Ministry of Health
+- 💻 Health Analyst and Developer at Ontario's Ministry of Health
 - 🎓 BScN, MN, and diploma in software engineering
 - 💬 Ask me about my journey transitioning from healthcare to software engineering
 - 👀 I’m interested in AI and technological innovations, especially within healthcare and education
