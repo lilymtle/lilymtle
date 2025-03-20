@@ -29,6 +29,7 @@
           <ul name="list">
             <li name="list__item">Nest.js</li>
             <li name="list__item">MongoDB</li>
+            <li name="list__item">Docker</li>
           </ul>
       </div>
     </td>
