@@ -21,15 +21,15 @@
         </ul>
         <strong>🌱 Currently learning:</strong>
         <ul name="list">
-          <li name="list__item">Headless CMS (Sanity? Strapi?)</li>
+          <li name="list__item">Sanity</li>
           <li name="list__item">Python</li>
+          <li name="list__item">Docker</li>
           <li name="list__item">DSA</li>
         </ul>
         <strong>💡 To learn:</strong>
           <ul name="list">
             <li name="list__item">Nest.js</li>
             <li name="list__item">MongoDB</li>
-            <li name="list__item">Docker</li>
           </ul>
       </div>
     </td>
@@ -42,7 +42,7 @@
 - 🎓 BScN, MN, and diploma in software engineering
 - 💬 Ask me about my journey transitioning from healthcare to software engineering
 - 👀 I’m interested in AI and technological innovations, especially within healthcare and education
-- ⚡ Fun fact: I read 100 books last year (2024). My goal for 2025 is 50 books. I am on book **10** as of *March 11th*. 😌
+- ⚡ Fun fact: I read 100 books last year (2024). My goal for 2025 is 50 books. I am on book **13** as of *April 25th*. 😌
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
