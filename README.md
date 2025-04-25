@@ -12,11 +12,11 @@
     <td style="vertical-align: top;">
       <div style="background-color: transparent; padding: 1rem; border-radius: 5px; max-width: 200px; max-height: 200px; overflow-y: auto;">
         <p align="center">
-          <b>MoodCompass</b> is now live! You can take a look <a href="https://mood-compass.vercel.app/">here</a>. 😊
+          <strong>MoodCompass</strong> is now live! You can take a look <a href="https://mood-compass.vercel.app/">here</a>.
+          While you're at it, perhaps you can take a look at my <a href="https://lilyle.dev/blog">blog</a> too! 😊
         </p>
         <strong>💻 Working on:</strong>
         <ul name="list">
-          <li name="list__item">Portfolio - Blog</li>
           <li name="list__item">Koru</li>
         </ul>
         <strong>🌱 Currently learning:</strong>
