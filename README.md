@@ -23,13 +23,14 @@
         <ul name="list">
           <li name="list__item">Sanity</li>
           <li name="list__item">Python</li>
-          <li name="list__item">Docker</li>
           <li name="list__item">DSA</li>
         </ul>
         <strong>💡 To learn:</strong>
           <ul name="list">
             <li name="list__item">Nest.js</li>
+            <li name="list__item">Docker</li>
             <li name="list__item">MongoDB</li>
+            <li name="list__item">.NET</li>
           </ul>
       </div>
     </td>
