@@ -43,7 +43,7 @@
 - 🎓 BScN, MN, and diploma in software engineering
 - 💬 Ask me about my journey transitioning from healthcare to software engineering
 - 👀 I’m interested in AI and technological innovations, especially within healthcare and education
-- ⚡ Fun fact: I read 100 books last year (2024). My goal for 2025 is 50 books. I am on book **13** as of *April 25th*. 😌
+- ⚡ Fun fact: I read 100 books last year (2024). My goal for 2025 is 50 books. I am on book **16** as of *May 5th*. 😌
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
