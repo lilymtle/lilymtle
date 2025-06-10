@@ -17,7 +17,7 @@
         </p>
         <strong>💻 Working on:</strong>
         <ul name="list">
-          <li name="list__item">Koru</li>
+          <li name="list__item">Wanderly</li>
         </ul>
         <strong>🌱 Currently learning:</strong>
         <ul name="list">
