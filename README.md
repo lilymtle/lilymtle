@@ -22,8 +22,8 @@
         </ul>
         <strong>🌱 Currently learning:</strong>
         <ul name="list">
-          <li name="list__item">Sanity</li>
-          <li name="list__item">Python</li>
+          <li name="list__item">Python & Django</li>
+          <li name="list__item">AWS</li>
           <li name="list__item">DSA</li>
         </ul>
         <strong>💡 To learn:</strong>
