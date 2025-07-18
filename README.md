@@ -17,12 +17,12 @@
         </p>
         <strong>💻 Working on:</strong>
         <ul name="list">
-          <li name="list__item">Wanderly</li>
           <li name="list__item">Oshawa Connect</li>
         </ul>
         <strong>🌱 Currently learning:</strong>
         <ul name="list">
           <li name="list__item">Python & Django</li>
+          <li name="list__item">PostgreSQL</li>
           <li name="list__item">AWS</li>
           <li name="list__item">DSA</li>
         </ul>
