@@ -55,7 +55,7 @@
 
 <h3 align="center">Others:</h3>
 <p align="center">
-  Agile (Scrum), Jira, Articulate 360
+  Agile (Scrum), Jira, Azure DevOps, ClickUp, Power Apps Platform, Miro, Articulate 360
 </p>
 
 <p align="center">
